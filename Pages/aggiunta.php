@@ -109,7 +109,7 @@ include "./connessione.php";
             <div class="row">
                 <div class="col"></div>
                 <div class="col-6">
-                <input type="button" value="Aggiungi" class="btn btn-primary">
+                <input onclick="alert('Aggiunta in corso...')" type="button" value="Aggiungi" class="btn btn-primary">
                 <div class="col"></div>
             </div>
         </div>
